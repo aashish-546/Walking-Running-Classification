@@ -1,0 +1,1 @@
+This dataset contains accelerometer and gyroscope data associated when a person is running and walking. The target is to create a LSTM model to predict the state of body from input of sensor. That's we have created a model that predicts if a person is walking or running based on the data from accelerometer and gyroscope from both left and right hands
